@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ..............................
-- 👀 I’m interested in Game development ,Web development
-- 🌱 I’m currently learning unity,c#.
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning unity,c#,blender.
 
 
 <!---
